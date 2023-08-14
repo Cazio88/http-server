@@ -1,0 +1,13 @@
+{
+  "name": "http_server",
+  "version": "1.0.0",
+  "description": "A nord server with http package",
+  "main": "index.js",
+  "author": "Francis Mensah",
+  "license": "MIT",
+
+  "scripts": {
+    "start":"node index.js"
+  }
+}
+
